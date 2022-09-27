@@ -17,5 +17,5 @@
 <!-- The colors in this file aren't configured at the theme level. -->
 <resources>
   <!-- Settings -->
-  <color name="dialer_settings_theme_color_dark">#1C3AA9</color>
+  <color name="dialer_settings_theme_color_dark">#31375a</color>
 </resources>

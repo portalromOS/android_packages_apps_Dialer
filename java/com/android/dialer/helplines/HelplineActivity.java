@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019-2021 The LineageOS Project
+ * Copyright (C) 2019-2021 The PortalRom Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -46,7 +46,7 @@ import com.android.dialer.R;
 import com.android.dialer.app.calllog.IntentProvider;
 import com.android.dialer.helplines.utils.HelplineUtils;
 
-import org.lineageos.lib.phone.spn.Item;
+import org.portalrom.lib.phone.spn.Item;
 
 import java.util.HashMap;
 import java.util.List;

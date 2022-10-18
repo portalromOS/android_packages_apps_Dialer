@@ -133,7 +133,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
 	libbackup \
 	libphonenumber \
 	volley \
-	org.lineageos.lib.phone
+	org.portalrom.lib.phone
 
 LOCAL_STATIC_ANDROID_LIBRARIES := \
 	android-support-core-ui \

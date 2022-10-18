@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Ndihmë</string>
     <string name="helplines_help_title">Këto janë të sigurta për tu telefonuar</string>
     <string name="helplines_help_message">Asnjë prej këtyre numrave nuk rezulton në historikun e telefonatave të tua.\nJu mund të shtypni në ndonjë prej artikujve për më shumë informacion</string>
-    <string name="helplines_help_more_message">Lista e linjave të ndihmës është e mbushur me informacione që përditësohen manualisht nga kontribuesit. Nëse hasni ndonjë informacion të munguar ose të gabuar, ju lutemi mos ngurroni të na kontaktoni në <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="helplines_help_more_message">Lista e linjave të ndihmës është e mbushur me informacione që përditësohen manualisht nga kontribuesit. Nëse hasni ndonjë informacion të munguar ose të gabuar, ju lutemi mos ngurroni të na kontaktoni në <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g></string>
     <string name="helpline_button_more">Më shumë</string>
     <string name="unknown_helpline_name">Organizatë e pa njohur</string>
     <string name="helpline_name">Emri</string>

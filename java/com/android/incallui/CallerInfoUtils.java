@@ -35,7 +35,7 @@ import com.android.dialer.util.PermissionsUtil;
 import com.android.incallui.call.DialerCall;
 import java.util.Arrays;
 
-import org.lineageos.lib.phone.SensitivePhoneNumbers;
+import org.portalrom.lib.phone.SensitivePhoneNumbers;
 
 /** Utility methods for contact and caller info related functionality */
 public class CallerInfoUtils {

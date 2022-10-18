@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Trợ giúp</string>
     <string name="helplines_help_title">Những số này an toàn để gọi</string>
     <string name="helplines_help_message">Những số này không xuất hiện trong lịch sử gọi của bạn.\nBạn có thể chạm vào bất cứ mục nào để xem thêm thông tin</string>
-    <string name="helplines_help_more_message">Danh sách đường dây trợ giúp chứa đầy thông tin được cập nhật thủ công bởi những người đóng góp. Nếu bạn gặp bất kỳ thông tin nào bị thiếu hoặc sai, vui lòng liên hệ với chúng tôi tại <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="helplines_help_more_message">Danh sách đường dây trợ giúp chứa đầy thông tin được cập nhật thủ công bởi những người đóng góp. Nếu bạn gặp bất kỳ thông tin nào bị thiếu hoặc sai, vui lòng liên hệ với chúng tôi tại <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g></string>
     <string name="helpline_button_more">Thêm</string>
     <string name="unknown_helpline_name">Tổ chức không xác định</string>
     <string name="helpline_name">Tên</string>

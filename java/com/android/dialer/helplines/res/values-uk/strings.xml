@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Довідка</string>
     <string name="helplines_help_title">Телефонувати сюди безпечно</string>
     <string name="helplines_help_message">Виклики цих номерів не потраплять до вашої історії.\nНатисніть будь-який заголовок, щоб дізнатись більше</string>
-    <string name="helplines_help_more_message">Список номерів телефонів екстрених служб оновлюється нашими помічниками вручну. Якщо ви знайшли будь-яку відсутню або неправильну інформацію, будь ласка, повідомте нам на <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="helplines_help_more_message">Список номерів телефонів екстрених служб оновлюється нашими помічниками вручну. Якщо ви знайшли будь-яку відсутню або неправильну інформацію, будь ласка, повідомте нам на <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g></string>
     <string name="helpline_button_more">Докладніше</string>
     <string name="helpline_org">Організація</string>
     <string name="helpline_categories">Категорії</string>

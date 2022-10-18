@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Помощь</string>
     <string name="helplines_help_title">Это безопасные звонки</string>
     <string name="helplines_help_message">Ни один из этих номеров не появится в истории звонков.\nДля получения дополнительной информации вы можете нажать на любой элемент.</string>
-    <string name="helplines_help_more_message">Список телефонов доверия содержит информацию, которая обновляется контрибьюторами вручную. Если вы обнаружите недостающую или неверную информацию, пожалуйста, свяжитесь с нами через сайт <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="helplines_help_more_message">Список телефонов доверия содержит информацию, которая обновляется контрибьюторами вручную. Если вы обнаружите недостающую или неверную информацию, пожалуйста, свяжитесь с нами через сайт <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g></string>
     <string name="helpline_button_more">Еще</string>
     <string name="unknown_helpline_name">Неизвестная организация</string>
     <string name="helpline_name">Название</string>

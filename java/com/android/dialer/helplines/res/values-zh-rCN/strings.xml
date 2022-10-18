@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">求助</string>
     <string name="helplines_help_title">这些都是可以安全拨打的</string>
     <string name="helplines_help_message">这些号码都不会出现在你的通话记录中。\n你可以点击任何一个条目以了解更多信息</string>
-    <string name="helplines_help_more_message">帮助热线列表中的信息是由贡献者手动更新的。如果你遇到任何遗漏或错误的信息，请随时与我们联系： <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="helplines_help_more_message">帮助热线列表中的信息是由贡献者手动更新的。如果你遇到任何遗漏或错误的信息，请随时与我们联系： <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g></string>
     <string name="helpline_button_more">更多</string>
     <string name="unknown_helpline_name">未知组织</string>
     <string name="helpline_name">名称</string>

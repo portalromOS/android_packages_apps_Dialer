@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2017 The Android Open Source Project
- * Copyright (C) 2020 The LineageOS Project
+ * Copyright (C) 2020 The PortalRom Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -43,7 +43,7 @@ import com.android.dialer.storage.StorageComponent;
 import com.android.dialer.util.DialerUtils;
 import com.android.dialer.util.IntentUtil;
 
-import org.lineageos.lib.phone.SensitivePhoneNumbers;
+import org.portalrom.lib.phone.SensitivePhoneNumbers;
 
 /** Helper class to handle all post call actions. */
 public class PostCall {

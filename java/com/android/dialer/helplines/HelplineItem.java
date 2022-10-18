@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019-2021 The LineageOS Project
+ * Copyright (C) 2019-2021 The PortalRom Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import android.content.res.Resources;
 
 import com.android.dialer.helplines.utils.HelplineUtils;
 
-import org.lineageos.lib.phone.spn.Item;
+import org.portalrom.lib.phone.spn.Item;
 
 /* When loading all the items we modify the name based on the subscription.
  * Using the setter would modify it permanently, resulting in modifications on each load.

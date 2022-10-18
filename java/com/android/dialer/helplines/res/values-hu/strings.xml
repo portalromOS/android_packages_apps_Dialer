@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Súgó</string>
     <string name="helplines_help_title">Az alábbiakkal biztonságos a hívás</string>
     <string name="helplines_help_message">Ezen számok egyike sem jelenik meg a hívási előzményekben.\nTovábbi információért bármelyik elemre rákattinthat</string>
-    <string name="helplines_help_more_message">A segélyvonalak listája tartalmaz olyan információkat, amiket a közreműködők manuálisan frissítenek. Ha hiányzó vagy helytelen információkkal találkozik, értesítsen minket a <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g> webcímen</string>
+    <string name="helplines_help_more_message">A segélyvonalak listája tartalmaz olyan információkat, amiket a közreműködők manuálisan frissítenek. Ha hiányzó vagy helytelen információkkal találkozik, értesítsen minket a <xliff:g id="helplines_contact_url" example="www.portalrom.org">%1$s</xliff:g> webcímen</string>
     <string name="helpline_button_more">Továbbiak</string>
     <string name="unknown_helpline_name">Ismeretlen szervezet</string>
     <string name="helpline_name">Név</string>

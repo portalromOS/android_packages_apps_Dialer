@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2021 The LineageOS Project
+     Copyright (C) 2019-2021 The PortalRom Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="helplines_help">Ajuda</string>
     <string name="helplines_help_title">Aquests són segurs per trucar</string>
     <string name="helplines_help_message">Cap d\'aquests números apareix a l\'historial de trucades.\nPodeu fer clic a qualsevol element per obtenir més informació</string>
-    <string name="helplines_help_more_message">La llista de línies d\'ajuda està plena d\'informació que els col·laboradors actualitzen manualment. Si trobeu alguna informació que falti o que sigui incorrecta, no dubteu a contactar amb nosaltres a &lt;xliff:g id="helplines_contact_url" example="www.lineageos.org"&gt;</string>
+    <string name="helplines_help_more_message">La llista de línies d\'ajuda està plena d\'informació que els col·laboradors actualitzen manualment. Si trobeu alguna informació que falti o que sigui incorrecta, no dubteu a contactar amb nosaltres a &lt;xliff:g id="helplines_contact_url" example="www.portalrom.org"&gt;</string>
     <string name="helpline_button_more">Més</string>
     <string name="unknown_helpline_name">Organització desconeguda</string>
     <string name="helpline_name">Nom</string>
